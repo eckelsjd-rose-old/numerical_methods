@@ -1,2 +1,2 @@
-# MatlabProj
-Repo for Matlab projects
+# Numerical methods
+Repo for class projects and homework in numerical methods
